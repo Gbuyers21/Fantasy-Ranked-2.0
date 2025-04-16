@@ -28,7 +28,7 @@ export const managers = [
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Atlanta", // (optional)
        "bio": "I am the commish and I usually have an okay team, I just want to field a decent roster and not get punished by Drew's veiny dih",
-       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+       "photo": "gavin.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "atl", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -51,7 +51,7 @@ export const managers = [
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Atlanta", // (optional)
        "bio": "I just wanna have a decent team and beat jacob",
-       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+       "photo": "kade.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": null, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "atl", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -74,7 +74,7 @@ export const managers = [
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Atlanta", // (optional)
        "bio": "Aura leader of the group. Always has a competitive team and wants to add his first championship to his belt",
-       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+       "photo": "carson.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": null, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "atl", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -97,7 +97,7 @@ export const managers = [
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Atlanta", // (optional)
        "bio": "I typically miss the playoffs, but I mainly wanna beat Kade because he's ass.",
-       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+       "photo": "jacob.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": null, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "atl", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -120,7 +120,7 @@ export const managers = [
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Statesboro", // (optional)
        "bio": "The league vaper and drinker. Always has a solid and competitive team",
-       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+       "photo": "cooper.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": null, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "atl", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -143,7 +143,7 @@ export const managers = [
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Atlanta", // (optional)
        "bio": "Old group Leader, main goal is to beat Drew's ass every year ",
-       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+       "photo": "matt.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": null, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "atl", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "null", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -166,7 +166,7 @@ export const managers = [
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Athens", // (optional)
        "bio": "Just the GOAT and auralike, since he is group leader after all",
-       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+       "photo": "austin.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": null, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "atl", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "null", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
