@@ -25,7 +25,7 @@ export const managers = [
        "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "managerID" : "1141231987329994752",
        "name": "Gavin Buyers",
-       "tookOver": null;, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Atlanta", // (optional)
        "bio": "I am the commish and I usually have an okay team, I just want to field a decent roster and not get punished by Drew's veiny dih",
        "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
