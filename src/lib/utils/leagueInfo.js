@@ -237,7 +237,7 @@ export const managers = [
        "bio": "OOO OOO OOO AHHH AHHH AHHH",
        "photo": "/managers/josh.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2018, // (optional) when did the manager start playing fantasy football
-       "favoriteTeam": "den", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
        "rival": {
          name: "Joshy Chain", // Can be anything (usually your rival's name)
